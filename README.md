@@ -6,3 +6,4 @@
 - pydantic_how.py
 - field_validator.py
 - model_validator.py
+- computed_fields.py
