@@ -8,3 +8,4 @@
 - model_validator.py
 - computed_fields.py
 - nested_models.py
+- serialization.py
