@@ -10,3 +10,4 @@
 - nested_models.py
 - serialization.py
 5. HTTP Method (POST)
+6. HTTP Method (PUT & DELETE)
