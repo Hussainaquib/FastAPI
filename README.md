@@ -11,3 +11,4 @@
 - serialization.py
 5. HTTP Method (POST)
 6. HTTP Method (PUT & DELETE)
+7. Insurance Prediction Project
